@@ -12,10 +12,10 @@ namespace QuanLySinhVien
 
         public diemso(string masv, string mamon, int sotc, double diem)
         {
-            masv = masv;
-            mamon = mamon;
-            sotc = sotc;
-            diem = diem;
+            this.masv = masv;
+            this.mamon = mamon;
+            this.sotc = sotc;
+            this.diem = diem;
         }
     }
     public class sinhvien
